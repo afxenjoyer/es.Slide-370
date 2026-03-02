@@ -22,5 +22,11 @@ namespace es.Slide_370
             {
             }
         }
+
+        public Materia(string nome, string sigla)
+        {
+            Nome = nome;
+            SiglaIdentificativa = sigla;
+        }
     }
 }

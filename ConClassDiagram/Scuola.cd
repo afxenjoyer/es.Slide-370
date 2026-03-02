@@ -39,9 +39,9 @@
     </TypeIdentifier>
   </Class>
   <Class Name="es.Slide_370.Scuola">
-    <Position X="2.75" Y="0.5" Width="1.5" />
+    <Position X="3" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAIAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAIAAAAAAAAAAoAA=</HashCode>
       <FileName>Scuola.cs</FileName>
     </TypeIdentifier>
   </Class>

@@ -4,4 +4,10 @@ public class Materia
 {
     public string Nome { get; set; }
     public string SiglaIdentificativa { get; set; }
+
+    public Materia(string nome, string sigla)
+    {
+        Nome = nome;
+        SiglaIdentificativa = sigla;
+    }
 }

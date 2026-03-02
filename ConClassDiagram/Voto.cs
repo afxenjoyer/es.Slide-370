@@ -15,7 +15,7 @@ namespace es.Slide_370
             }
         }
 
-        public float Valore
+        public double Valore
         {
             get => default;
             set
@@ -29,6 +29,13 @@ namespace es.Slide_370
             set
             {
             }
+        }
+
+        public Voto(DateTime data, Materia materia, double valore)
+        {
+            Data = data;
+            Materia = materia;
+            Valore = valore;
         }
     }
 }
